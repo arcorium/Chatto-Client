@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/arc/qmldir</file>
+        <file>ui/arc/Rect.qml</file>
+        <file alias="main.qml">ui/main.qml</file>
+    </qresource>
+</RCC>
