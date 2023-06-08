@@ -1,0 +1,7 @@
+module arc.component
+
+NiceButton 1.0 nice_button.qml
+ChatBubble 1.0 chat_bubble.qml
+Contact 1.0 contact.qml
+SearchBar 1.0 search_bar.qml
+ChatRoom 1.0 chat_room.qml

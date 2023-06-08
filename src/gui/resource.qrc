@@ -1,7 +1,14 @@
 <RCC>
     <qresource prefix="/">
-        <file>ui/arc/qmldir</file>
-        <file>ui/arc/Rect.qml</file>
-        <file alias="main.qml">ui/main.qml</file>
+        <file>ui/main.qml</file>
+        <file>ui/LoginPage.qml</file>
+        <file>ui/RegisterPage.qml</file>
+        <file>ui/DashboardPage.qml</file>
+        <file>ui/import/arc/component/chat_bubble.qml</file>
+        <file>ui/import/arc/component/chat_room.qml</file>
+        <file>ui/import/arc/component/contact.qml</file>
+        <file>ui/import/arc/component/nice_button.qml</file>
+        <file>ui/import/arc/component/qmldir</file>
+        <file>ui/import/arc/component/search_bar.qml</file>
     </qresource>
 </RCC>
